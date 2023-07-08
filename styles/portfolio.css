@@ -104,7 +104,13 @@ nav a {
 
 }
 
-/* main section styles */
+/* {
+    
+} section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 
 /* about section styles */
@@ -114,3 +120,21 @@ nav a {
     background: #f5c39f;
     margin: 130px;
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
